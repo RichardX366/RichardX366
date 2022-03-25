@@ -9,7 +9,7 @@ My name is Richard, and I'm currently a web developer working primarily with Rea
 
 ## Projects: 🚧 
 
-Currently none, but I'll post the links to them here once there are some.
+- [Hobby Robotics](https://rx-robotics.herokuapp.com)
 
 ## Contact Information: 📧
 
