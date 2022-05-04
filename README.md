@@ -10,6 +10,7 @@ My name is Richard, and I'm currently a web developer working primarily with Rea
 ## Projects: 🚧 
 
 - [Hobby Robotics](https://rx-robotics.herokuapp.com)
+- [Audio Player](https://rx-audio-player.netlify.app)
 
 ## Contact Information: 📧
 
